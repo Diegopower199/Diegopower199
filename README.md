@@ -15,18 +15,15 @@
   <a href="https://skillicons.dev/icons?i=cpp" target="_blank"> 
     <img alt="C++" src="https://skillicons.dev/icons?i=cpp"/>
   </a>
-</p>
-&emsp;
+  &emsp;
   <a href="https://skillicons.dev/icons?i=java" target="_blank"> 
     <img alt="Java" src="https://skillicons.dev/icons?i=java"/>
   </a>
-</p>
-&emsp;
+  &emsp;
   <a href="https://skillicons.dev/icons?i=ts" target="_blank"> 
     <img alt="TypeScript" src="https://skillicons.dev/icons?i=ts"/>
   </a>
-</p>
-&emsp;
+  &emsp;
   <a href="https://skillicons.dev/icons?i=js" target="_blank"> 
     <img alt="JavaScript" src="https://skillicons.dev/icons?i=js"/>
   </a>
